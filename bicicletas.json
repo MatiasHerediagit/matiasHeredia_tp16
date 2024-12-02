@@ -1,0 +1,63 @@
+/*Creo el array en JSON con el total de bicicletas */
+[
+    {
+        "id": "Bicicleta 1",
+        "marca": "Olmo",
+        "modelo": "Regal",
+        "rodado": 26,
+        "ano": 2022,
+        "color": "rojo",
+        "peso": 16,
+        "tipo": "Montañera",
+        "precio": 140000,
+        "vendida": false
+    },
+    {
+        "id": "Bicicleta 2",
+        "marca": "Specialized",
+        "modelo": "Epic",
+        "rodado": 29,
+        "ano": 2021,
+        "color": "negro",
+        "peso": 13,
+        "tipo": "Montañera",
+        "precio": 250000,
+        "vendida": true
+    },
+    {
+        "id": "Bicicleta 3",
+        "marca": "Cannondale",
+        "modelo": "Synapse",
+        "rodado": 28,
+        "ano": 2020,
+        "color": "azul",
+        "peso": 9,
+        "tipo": "Ruta",
+        "precio": 300000,
+        "vendida": true
+    },
+    {
+        "id": "Bicicleta 4",
+        "marca": "Trek",
+        "modelo": "FX 2",
+        "rodado": 26,
+        "ano": 2021,
+        "color": "gris",
+        "peso": 12,
+        "tipo": "Ciudad/paseo",
+        "precio": 180000,
+        "vendida": true
+    },
+    {
+        "id": "Bicicleta 5",
+        "marca": "Giant",
+        "modelo": "Defy Advanced",
+        "rodado": 29,
+        "ano": 2024,
+        "color": "verde",
+        "peso": 20,
+        "tipo": "Ruta",
+        "precio": 270000,
+        "vendida": false
+    }
+]
